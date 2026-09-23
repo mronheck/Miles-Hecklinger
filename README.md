@@ -6,7 +6,8 @@ Tulane University, originally from Germantown, Maryland.
 ## About the site
 
 A single-page static portfolio built with plain HTML, CSS, and JavaScript (no build step,
-no dependencies).
+no dependencies). Content (experience, education, activities, and skills) is pulled from
+`Resume.pdf` and `Profile.pdf`.
 
 ```
 .
@@ -14,6 +15,8 @@ no dependencies).
 ├── assets/
 │   ├── css/style.css
 │   └── js/main.js
+├── Resume.pdf
+├── Profile.pdf
 └── README.md
 ```
 
